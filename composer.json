@@ -1,6 +1,6 @@
 {
     "name": "ghopper/array_to_xml",
-    "description": "",
+    "description": "Convenient way for xml-feed generation. You can get an multi-depth feed right from a SQL-query result.",
     "license": "MIT",
     "keywords": ["xml feed generator array"],
     "authors": [
