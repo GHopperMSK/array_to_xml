@@ -1,0 +1,19 @@
+{
+    "name": "ghopper/array_to_xml",
+    "description": "",
+    "license": "MIT",
+    "keywords": ["xml feed generator array"],
+    "authors": [
+        {
+            "name": "Nikolay Poryadin",
+            "email": "np25071984@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "ghopper\\": "src"
+        }
+    }
+}
